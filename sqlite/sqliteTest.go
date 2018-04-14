@@ -25,14 +25,20 @@ func main() {
   		date datetime,
   		data varchar,
   		data_type varchar
-	);
+	);`
+	// exec script
+	_, err = db.Exec(sqlStmt)
+	if err != nil {
+		log.Printf("%q: %s\n", err, sqlStmt)
+		return
+	}
 
-	CREATE TABLE device (
-	  id integer PRIMARY KEY AUTOINCREMENT,
-	  device_name varchar,
-	  device_condition varchar
-	);
-	`
+	// create a new one table
+	sqlStmt = `CREATE TABLE device (
+		id integer PRIMARY KEY AUTOINCREMENT,
+		device_name varchar,
+		device_condition varchar
+	);`
 	// exec script
 	_, err = db.Exec(sqlStmt)
 	if err != nil {
