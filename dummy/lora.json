@@ -1,0 +1,20 @@
+{ "data": { "joined": 1, "class": "C" }, "status": { "devEUI" : "807B859020000252", "rssi": 0, "temperature": 0, "battery": 0, "date": "2017-11-10T17:22:11.47090Z" }}
+{ "data": { "luminocity": 800 }, "status": { "devEUI" : "807B859020000252", "rssi": -41, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:22:21.249451Z" }}
+{ "data": { "temperature": 25.3, "humidity": 31.1, "pressure": 994 }, "status": { "devEUI" : "807B859020000252", "rssi": -42, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:22:26.487176Z" }}
+{ "data": { "luminocity": 801 }, "status": { "devEUI" : "807B859020000252", "rssi": -34, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:22:38.218952Z" }}
+{ "data": { "temperature": 19.9, "humidity": 31.3, "pressure": 985 }, "status": { "devEUI" : "807B859020000252", "rssi": -33, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:24:13.454068Z" }}
+{ "data": { "luminocity": 802 }, "status": { "devEUI" : "807B859020000252", "rssi": -34, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:25:18.882922Z" }}
+{ "data": { "luminocity": 805 }, "status": { "devEUI" : "807B859020000252", "rssi": -44, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:25:48.322934Z" }}
+{ "data": { "temperature": 24.7, "humidity": 32.1, "pressure": 994 }, "status": { "devEUI" : "807B859020000252", "rssi": -43, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:26:24.915151Z" }}
+{ "data": { "luminocity": 802 }, "status": { "devEUI" : "807B859020000252", "rssi": -41, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:26:32.720937Z" }}
+{ "data": { "temperature": 24.2, "humidity": 33.1, "pressure": 994 }, "status": { "devEUI" : "807B859020000252", "rssi": -31, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:27:15.929087Z" }}
+{ "data": { "luminocity": 796 }, "status": { "devEUI" : "807B859020000252", "rssi": -32, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:28:11.744947Z" }}
+{ "data": { "luminocity": 139 }, "status": { "devEUI" : "807B859020000252", "rssi": -44, "temperature": 30, "battery": 3400, "date": "2017-11-10T17:28:21.116265Z" }}
+{ "data": { "temperature": 18.9, "humidity": 33.6, "pressure": 985 }, "status": { "devEUI" : "807B859020000252", "rssi": -43, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:28:28.555062Z" }}
+{ "data": { "temperature": 24.1, "humidity": 33.5, "pressure": 994 }, "status": { "devEUI" : "807B859020000252", "rssi": -40, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:28:48.896205Z" }}
+{ "data": { "temperature": 18.6, "humidity": 33.7, "pressure": 985 }, "status": { "devEUI" : "807B859020000252", "rssi": -40, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:30:14.783083Z" }}
+{ "data": { "joined": 1, "class": "C" }, "status": { "devEUI" : "807B859020000252", "rssi": 0, "temperature": 0, "battery": 0, "date": "2017-11-10T17:33:04.28278Z" }}
+{ "data": { "temperature": 23.8, "humidity": 34.0, "pressure": 994 }, "status": { "devEUI" : "807B859020000252", "rssi": -37, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:33:35.820362Z" }}
+{ "data": { "luminocity": 15 }, "status": { "devEUI" : "807B859020000252", "rssi": -51, "temperature": 30, "battery": 3350, "date": "2017-11-10T17:34:34.38207Z" }}
+{ "data": { "joined": 1, "class": "C" }, "status": { "devEUI" : "807B859020000252", "rssi": 0, "temperature": 0, "battery": 0, "date": "2017-11-10T17:35:36.459567Z" }}
+
